@@ -1,0 +1,8 @@
+		public const char ONLINE		= 'A';
+		public const char AWAY			= 'B';
+		public const char BERIGTHBACK		= 'C';
+		public const char BUSY			= 'D';
+		public const char TALKINGINPHONE	= 'E';
+		public const char EATING		= 'F';
+		public const char WRITINGCODE		= 'G';
+		public const char OFFLINE		= 'Z';

@@ -1,0 +1,46 @@
+================================================
+bg.jpg
+================================================
+Ska anpassas efter fönstrets storlek, helt enkelt.
+
+
+================================================
+border-top.jpg
+================================================
+Ska ligga längst upp och sträckas ut horisontellt efter fönstrets storlek.
+
+
+
+================================================
+donwload/dl_left.gif
+================================================
+Vid överföring ska denna bakgrund sträckas horisontellt över
+hur mycket som är kvar av överföringen.
+
+================================================
+donwload/dl_left_start.gif
+================================================
+Ska ej sträckas ut. Ska ligga till vänsterom "donwload/dl_left.gif"
+
+
+================================================
+donwload/dl_left_closeup.gif
+================================================
+Ska ej sträckas ut. Ska ligga till höger om "donwload/dl_left.gif"
+
+
+================================================
+donwload/dl_finished.gif
+================================================
+Vid överföring ska denna bakgrund sträckas horisontellt över
+hur mycket som är färdigt av överföringen.
+
+OBS!
+Skulle detta fungera?
+
+1. Skapa en t.ex 250 px bred bakgrund bestående av "dl_left_start.gif", "dl_left.gif" och
+"dl_left_closeup.gif"
+
+2. Allteftersom överföringen slutförs täcks denna bakgrund över dl_finished.gif
+
+Det borde fungera eller hur?

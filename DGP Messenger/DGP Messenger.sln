@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGP Messenger", "DGP Messenger.csproj", "{09371625-2E4E-4A9D-8A64-A4BE3234F8A6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{3B6B14F7-9C48-46E6-B451-6F5C054BD11C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGP Messenger Server", "..\DGP Messenger Server\DGP Messenger Server.csproj", "{ADAEB43E-5CE7-440C-BE16-48A823D2B287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09371625-2E4E-4A9D-8A64-A4BE3234F8A6}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{09371625-2E4E-4A9D-8A64-A4BE3234F8A6}.Debug|Default.Build.0 = Debug|Any CPU
+		{09371625-2E4E-4A9D-8A64-A4BE3234F8A6}.Release|Default.ActiveCfg = Release|Any CPU
+		{09371625-2E4E-4A9D-8A64-A4BE3234F8A6}.Release|Default.Build.0 = Release|Any CPU
+		{3B6B14F7-9C48-46E6-B451-6F5C054BD11C}.Debug|Default.ActiveCfg = Debug
+		{3B6B14F7-9C48-46E6-B451-6F5C054BD11C}.Release|Default.ActiveCfg = Release
+		{ADAEB43E-5CE7-440C-BE16-48A823D2B287}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{ADAEB43E-5CE7-440C-BE16-48A823D2B287}.Debug|Default.Build.0 = Debug|Any CPU
+		{ADAEB43E-5CE7-440C-BE16-48A823D2B287}.Release|Default.ActiveCfg = Release|Any CPU
+		{ADAEB43E-5CE7-440C-BE16-48A823D2B287}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

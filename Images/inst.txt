@@ -1,0 +1,10 @@
+1. Sätt bakgrundsfärgen till "#F6F6F7"
+
+2. Använd top.jpg som bakgrund överst och sätt horisontella vita
+linjer runt om den som ska löpa över hela fönstret.
+(top.jpg ska centreras beroende på fönstrets storlek)
+
+3. Sätt bg_1.jpg som bakgrund (den ska inte upprepas eller föstoras men centreras)
+
+4. Sätt bg_2.jpg som bakgrund (under alla andra bakgrunder).
+Den ska löpa horisontellt men inte vertikalt.
